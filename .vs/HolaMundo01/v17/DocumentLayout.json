@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|d:\\erick\\proyectos\\proyectonet\\diplomado\\modulo5\\holamundo01\\peliculas\\core\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\core\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|d:\\erick\\proyectos\\proyectonet\\diplomado\\modulo5\\holamundo01\\peliculas\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|d:\\erick\\proyectos\\proyectonet\\diplomado\\modulo5\\holamundo01\\peliculas\\bussiness\\moviebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\bussiness\\moviebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|d:\\erick\\proyectos\\proyectonet\\diplomado\\modulo5\\holamundo01\\peliculas\\persistence\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5157C7-3DFA-42E3-BA65-C8F6A00651DC}|Peliculas\\Peliculas.csproj|solutionrelative:peliculas\\persistence\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Core\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Core\\IMovieRepository.cs",
+              "ToolTip": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Core\\IMovieRepository.cs",
+              "RelativeToolTip": "Peliculas\\Core\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:37:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Peliculas\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:43:37.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieBL.cs",
+              "DocumentMoniker": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Bussiness\\MovieBL.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Bussiness\\MovieBL.cs",
+              "ToolTip": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Bussiness\\MovieBL.cs",
+              "RelativeToolTip": "Peliculas\\Bussiness\\MovieBL.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:31:52.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Persistence\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Peliculas\\Persistence\\MovieRepository.cs",
+              "ToolTip": "D:\\Erick\\PROYECTOS\\ProyectoNET\\Diplomado\\Modulo5\\HolaMundo01\\Peliculas\\Persistence\\MovieRepository.cs",
+              "RelativeToolTip": "Peliculas\\Persistence\\MovieRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T01:50:15.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
